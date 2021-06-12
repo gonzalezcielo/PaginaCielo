@@ -1,0 +1,48 @@
+.rejillas {
+    display: flex;
+    align-items:center;
+    justify-content: center; 
+    margin: 20px 0px;
+}
+
+.cuadro1 {
+    text-align: center;
+    width: 20%;
+    margin: 10px 20px;
+    border: #f4e7d5 4px solid;
+    border-radius: 15px;
+    padding: 10px 0px;
+}
+
+.rejilla img{
+    height: 130px;
+    border-radius: 15px;
+}
+
+.rejilla h2{
+    font-family: Verdana;
+    font-size: 21px;
+    color: #84b09b;
+    margin: 10px 0px;
+    text-align: center;
+}
+
+.rejilla p{
+    font-family:Verdana;
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    margin: 0px 28px;
+}
+
+.rejilla button{
+    color: #f4e7d5;
+    background: cornflowerblue;
+    border:none;
+    border-radius: 10px;
+    font-family: verdana;
+    font-size: 14px;
+    width: 180px; 
+    height: 35px;
+    margin-top: 15px;
+}
